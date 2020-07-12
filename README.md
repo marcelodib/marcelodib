@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**marcelodib/marcelodib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Ola, sou o [Marcelo Dib] 👋
 
 **Meu contato:**
