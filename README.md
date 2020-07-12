@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Sou desenvolvedor de software a 2 anos. Desenvolvi projetos para gestão de eventos, controle e monitoramento de equipamentos, automatização de processos financeiros, entre outros. 
+Sou desenvolvedor de software a 2 anos. Desenvolvi projetos para gestão de eventos, controle e monitoramento de equipamentos, automatização de processos financeiros, entre outros.<br /> 
 Trabalhei em projetos voluntarios na graduação, como a Semana Integrada do Ceatec, e trabalhei em startups de mobilidade urbana e IoT, como o Parkeen, e a Fibo. 
 Durante esse tempo desenvolvi firmwares para sistemas embarcados, aplicações web (Frontend, backend, e banco de dados), aplicações mobile e desktop, e brokers mqtt.
 Atualmente sou Desenvolvedor de Software na [Fibo | The IoT Architects].
