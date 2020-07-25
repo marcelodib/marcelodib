@@ -24,3 +24,5 @@ Atualmente sou Desenvolvedor de Software na Fibo | The IoT Architects.
 <code><img height="20" src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/postgres.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/docker.png"></code>
+
+<img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/dino.gif">
